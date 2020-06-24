@@ -1,5 +1,5 @@
-# vanilla-js
-Applications written in plain JavaScript using DOM, HTML APIs, AJAX.
+# Vanillajs
+Applications written in plain JavaScript covering DOM/BOM Manipultion, HTML Web APIs, AJAX.
 
 - Temperature Converter [See live app](https://codepen.io/snghnishant/pen/ExVPMGr)
 - FLAMES Game [See live app](https://codepen.io/snghnishant/pen/abvdMaX)
