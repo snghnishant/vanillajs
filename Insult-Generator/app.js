@@ -13,7 +13,7 @@ function display(res){
 }
 
 async function insultResult(){
-        let response = await fetch(proxyurl + url);
+        let response = await fetch(url);
         if(response.ok){
             let json = await response.json();
             display(json);
